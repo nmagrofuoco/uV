@@ -123,7 +123,7 @@ uVRecognizer.prototype.resample = function (points) {
   for (let i = 1; i < points.length; i += 1) {
     if (points[i - 1].strokeId == points[i].strokeId) {
       const dist2 = this.euclideanDistance(points[i - 1], points[i]);
-      if ((dist + dist2) >= int) {
+      if (dist2 > 0 && (dist + dist2) >= int) {
         let pX = points[i - 1].x + (
           (int - dist) / dist2) * (points[i].x - points[i - 1].x
         );
@@ -162,6 +162,7 @@ uVRecognizer.prototype.shape = function (points) {
         points[i].strokeId
       );
       let den = this.scalarProduct(v2, v2);
+      if (den == 0) den = 1; // avoid division by 0
       // shape(b->p_i, p_i->p_i+1)
       shapes.push(new Point(
         this.scalarProduct(v1, v2) / den,
