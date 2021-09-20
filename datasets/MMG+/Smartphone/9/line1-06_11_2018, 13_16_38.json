@@ -1,0 +1,185 @@
+{
+  "name": "line",
+  "subject": 9,
+  "date": null,
+  "paths": {
+    "Finger": {
+      "strokes":
+    [
+      {
+        "x": 53.333335876464844,
+        "y": 270.3333435058594,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597297,
+        "stroke_id": 0
+      },
+      {
+        "x": 59,
+        "y": 268.3333435058594,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597321,
+        "stroke_id": 0
+      },
+      {
+        "x": 67.66667175292969,
+        "y": 265.66668701171875,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597332,
+        "stroke_id": 0
+      },
+      {
+        "x": 79.33333587646484,
+        "y": 263,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597343,
+        "stroke_id": 0
+      },
+      {
+        "x": 106.33333587646484,
+        "y": 258.66668701171875,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597360,
+        "stroke_id": 0
+      },
+      {
+        "x": 163.6666717529297,
+        "y": 251.33334350585938,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597394,
+        "stroke_id": 0
+      },
+      {
+        "x": 177,
+        "y": 249.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597410,
+        "stroke_id": 0
+      },
+      {
+        "x": 204.33334350585938,
+        "y": 244.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597426,
+        "stroke_id": 0
+      },
+      {
+        "x": 231.33334350585938,
+        "y": 237.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597443,
+        "stroke_id": 0
+      },
+      {
+        "x": 244.33334350585938,
+        "y": 234.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597460,
+        "stroke_id": 0
+      },
+      {
+        "x": 267,
+        "y": 232.33334350585938,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597477,
+        "stroke_id": 0
+      },
+      {
+        "x": 282.66668701171875,
+        "y": 232.33334350585938,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597493,
+        "stroke_id": 0
+      },
+      {
+        "x": 289.3333435058594,
+        "y": 234,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597511,
+        "stroke_id": 0
+      },
+      {
+        "x": 289.3333435058594,
+        "y": 234.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597528,
+        "stroke_id": 0
+      },
+      {
+        "x": 288.3333435058594,
+        "y": 235.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597544,
+        "stroke_id": 0
+      },
+      {
+        "x": 285.66668701171875,
+        "y": 238,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1541506597559,
+        "stroke_id": 0
+      }
+    ]
+    }
+  },
+  "device": {
+    "osBrowserInfo": "5.0 (Linux; Android 8.0.0; ANE-LX1 Build/HUAWEIANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36",
+    "resolutionHeight": 760,
+    "resolutionWidth": 360,
+    "windowHeight": 631,
+    "windowWidth": 360,
+    "pixelRatio": 3,
+    "mouse": false,
+    "pen": false,
+    "finger": true,
+    "acceleration": false,
+    "webcam": false
+  }
+}

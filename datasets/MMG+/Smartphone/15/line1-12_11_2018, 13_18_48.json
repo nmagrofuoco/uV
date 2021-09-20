@@ -1,0 +1,185 @@
+{
+  "name": "line",
+  "subject": 15,
+  "date": null,
+  "paths": {
+    "Finger": {
+      "strokes":
+    [
+      {
+        "x": 116.33333587646484,
+        "y": 232.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025127890,
+        "stroke_id": 0
+      },
+      {
+        "x": 126.33333587646484,
+        "y": 230.33334350585938,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025127994,
+        "stroke_id": 0
+      },
+      {
+        "x": 138.33334350585938,
+        "y": 230.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128012,
+        "stroke_id": 0
+      },
+      {
+        "x": 155.33334350585938,
+        "y": 233,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128029,
+        "stroke_id": 0
+      },
+      {
+        "x": 166.33334350585938,
+        "y": 234.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128045,
+        "stroke_id": 0
+      },
+      {
+        "x": 190.33334350585938,
+        "y": 238.33334350585938,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128062,
+        "stroke_id": 0
+      },
+      {
+        "x": 215.6666717529297,
+        "y": 240.33334350585938,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128079,
+        "stroke_id": 0
+      },
+      {
+        "x": 228.6666717529297,
+        "y": 240.33334350585938,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128096,
+        "stroke_id": 0
+      },
+      {
+        "x": 253.33334350585938,
+        "y": 240.33334350585938,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128113,
+        "stroke_id": 0
+      },
+      {
+        "x": 273,
+        "y": 239.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128130,
+        "stroke_id": 0
+      },
+      {
+        "x": 285,
+        "y": 239.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128147,
+        "stroke_id": 0
+      },
+      {
+        "x": 288,
+        "y": 239.6666717529297,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128164,
+        "stroke_id": 0
+      },
+      {
+        "x": 289.66668701171875,
+        "y": 240,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128181,
+        "stroke_id": 0
+      },
+      {
+        "x": 289.3333435058594,
+        "y": 240,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128196,
+        "stroke_id": 0
+      },
+      {
+        "x": 289,
+        "y": 240,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128214,
+        "stroke_id": 0
+      },
+      {
+        "x": 288.66668701171875,
+        "y": 240,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542025128224,
+        "stroke_id": 0
+      }
+    ]
+    }
+  },
+  "device": {
+    "osBrowserInfo": "5.0 (Linux; Android 8.0.0; ANE-LX1 Build/HUAWEIANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36",
+    "resolutionHeight": 760,
+    "resolutionWidth": 360,
+    "windowHeight": 631,
+    "windowWidth": 360,
+    "pixelRatio": 3,
+    "mouse": false,
+    "pen": false,
+    "finger": true,
+    "acceleration": false,
+    "webcam": false
+  }
+}

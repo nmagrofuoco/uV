@@ -1,0 +1,115 @@
+{
+  "name": "line",
+  "subject": 10,
+  "date": null,
+  "paths": {
+    "Finger": {
+      "strokes":
+    [
+      {
+        "x": 549.8765470819372,
+        "y": 46.484222799204645,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542902735479,
+        "stroke_id": 0
+      },
+      {
+        "x": 549.5197586801636,
+        "y": 45.611022050263756,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542902735515,
+        "stroke_id": 0
+      },
+      {
+        "x": 550.4540896601483,
+        "y": 41.66506178277689,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542902735526,
+        "stroke_id": 0
+      },
+      {
+        "x": 552.7388775646814,
+        "y": 31.05643404196877,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542902735540,
+        "stroke_id": 0
+      },
+      {
+        "x": 578.2968574840138,
+        "y": -52.208664262881115,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542902735573,
+        "stroke_id": 0
+      },
+      {
+        "x": 589.4176914889147,
+        "y": -87.30715864927626,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542902735592,
+        "stroke_id": 0
+      },
+      {
+        "x": 617.0775547118076,
+        "y": -170.4121224294093,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542902735607,
+        "stroke_id": 0
+      },
+      {
+        "x": 633.8145362405631,
+        "y": -215.44403832587204,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542902735623,
+        "stroke_id": 0
+      },
+      {
+        "x": 677.9445361321331,
+        "y": -320.55608858448915,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542902735641,
+        "stroke_id": 0
+      }
+    ]
+    }
+  },
+  "device": {
+    "osBrowserInfo": "5.0 (Linux; Android 7.0; SM-T580 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Safari/537.36",
+    "resolutionHeight": 1280,
+    "resolutionWidth": 800,
+    "windowHeight": 1160,
+    "windowWidth": 800,
+    "pixelRatio": 1.5,
+    "mouse": false,
+    "pen": false,
+    "finger": true,
+    "acceleration": false,
+    "webcam": false
+  }
+}

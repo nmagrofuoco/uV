@@ -1,0 +1,975 @@
+{
+  "name": "halfnote",
+  "subject": 15,
+  "date": null,
+  "paths": {
+    "Finger": {
+      "strokes":
+    [
+      {
+        "x": 149.6341213914062,
+        "y": 499.2340430253348,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969388,
+        "stroke_id": 0
+      },
+      {
+        "x": 147.50264637934075,
+        "y": 501.34515985605276,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969488,
+        "stroke_id": 0
+      },
+      {
+        "x": 141.10822134314438,
+        "y": 507.6785103482066,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969505,
+        "stroke_id": 0
+      },
+      {
+        "x": 137.55576298970198,
+        "y": 511.1970383994032,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969521,
+        "stroke_id": 0
+      },
+      {
+        "x": 130.444060222368,
+        "y": 519.6482917827242,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969540,
+        "stroke_id": 0
+      },
+      {
+        "x": 127.36254061189075,
+        "y": 523.1690796450664,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969555,
+        "stroke_id": 0
+      },
+      {
+        "x": 119.77989910159155,
+        "y": 531.6180732172417,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969574,
+        "stroke_id": 0
+      },
+      {
+        "x": 115.03922427404629,
+        "y": 537.2522443484597,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969589,
+        "stroke_id": 0
+      },
+      {
+        "x": 111.2449531817349,
+        "y": 541.9476765640064,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969606,
+        "stroke_id": 0
+      },
+      {
+        "x": 102.70548101257475,
+        "y": 553.2205384487338,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969623,
+        "stroke_id": 0
+      },
+      {
+        "x": 97.72751306845186,
+        "y": 559.0897362583717,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969639,
+        "stroke_id": 0
+      },
+      {
+        "x": 88.46397710770492,
+        "y": 573.8946983151939,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969656,
+        "stroke_id": 0
+      },
+      {
+        "x": 83.48374935243635,
+        "y": 580.234834867797,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969673,
+        "stroke_id": 0
+      },
+      {
+        "x": 74.937491122827,
+        "y": 592.9218940334522,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969690,
+        "stroke_id": 0
+      },
+      {
+        "x": 68.54306608663069,
+        "y": 599.2552445256059,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969706,
+        "stroke_id": 0
+      },
+      {
+        "x": 57.15710098541308,
+        "y": 614.2861873892532,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969723,
+        "stroke_id": 0
+      },
+      {
+        "x": 50.76041613807104,
+        "y": 621.0904766243722,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969740,
+        "stroke_id": 0
+      },
+      {
+        "x": 37.249762085237194,
+        "y": 636.8183390378096,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969758,
+        "stroke_id": 0
+      },
+      {
+        "x": 30.140325756060975,
+        "y": 644.7972726261332,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969773,
+        "stroke_id": 0
+      },
+      {
+        "x": 15.921439843684311,
+        "y": 660.7579019068446,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969789,
+        "stroke_id": 0
+      },
+      {
+        "x": 9.285202068619014,
+        "y": 668.2681565633486,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969806,
+        "stroke_id": 0
+      },
+      {
+        "x": -2.564915715114637,
+        "y": 681.8826423349224,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969824,
+        "stroke_id": 0
+      },
+      {
+        "x": -8.722047634733372,
+        "y": 687.9809661486565,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969840,
+        "stroke_id": 0
+      },
+      {
+        "x": -20.329467293472362,
+        "y": 699.9462213338704,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969857,
+        "stroke_id": 0
+      },
+      {
+        "x": -25.309695048740934,
+        "y": 706.2863578864735,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969873,
+        "stroke_id": 0
+      },
+      {
+        "x": -36.67756177975667,
+        "y": 717.5456476503025,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969891,
+        "stroke_id": 0
+      },
+      {
+        "x": -43.07198681595304,
+        "y": 723.8789981424563,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969908,
+        "stroke_id": 0
+      },
+      {
+        "x": -53.7338881255838,
+        "y": 735.3778408340087,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969926,
+        "stroke_id": 0
+      },
+      {
+        "x": -59.413295241788205,
+        "y": 740.0642271779607,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969941,
+        "stroke_id": 0
+      },
+      {
+        "x": -64.38673693660758,
+        "y": 744.9901664496358,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969957,
+        "stroke_id": 0
+      },
+      {
+        "x": -76.45152321741347,
+        "y": 754.1247672618485,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969973,
+        "stroke_id": 0
+      },
+      {
+        "x": -80.7144732415444,
+        "y": 758.3470009232844,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628969991,
+        "stroke_id": 0
+      },
+      {
+        "x": -93.0120263896244,
+        "y": 766.7733698759544,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970007,
+        "stroke_id": 0
+      },
+      {
+        "x": -98.68238763423386,
+        "y": 769.5746201960133,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970024,
+        "stroke_id": 0
+      },
+      {
+        "x": -110.48726280596901,
+        "y": 773.7606637440578,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970040,
+        "stroke_id": 0
+      },
+      {
+        "x": -116.15762405057853,
+        "y": 776.5619140641165,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970058,
+        "stroke_id": 0
+      },
+      {
+        "x": -127.48930066820282,
+        "y": 780.2792786803415,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970074,
+        "stroke_id": 0
+      },
+      {
+        "x": -131.73415232213188,
+        "y": 780.7298592419592,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970092,
+        "stroke_id": 0
+      },
+      {
+        "x": -140.93661373883634,
+        "y": 782.8070457704313,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970108,
+        "stroke_id": 0
+      },
+      {
+        "x": -144.94643871434562,
+        "y": 783.4949194486265,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970125,
+        "stroke_id": 0
+      },
+      {
+        "x": -154.37940718717846,
+        "y": 784.3929353745906,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970142,
+        "stroke_id": 0
+      },
+      {
+        "x": -159.08841152362356,
+        "y": 783.4270588441348,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970158,
+        "stroke_id": 0
+      },
+      {
+        "x": -169.20698723649394,
+        "y": 779.8429299995922,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970174,
+        "stroke_id": 0
+      },
+      {
+        "x": -173.20324009110493,
+        "y": 777.7024091159319,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970191,
+        "stroke_id": 0
+      },
+      {
+        "x": -181.19260060305544,
+        "y": 772.4781021836367,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970208,
+        "stroke_id": 0
+      },
+      {
+        "x": -185.41483426449133,
+        "y": 768.2151521595058,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970224,
+        "stroke_id": 0
+      },
+      {
+        "x": -194.3279805191827,
+        "y": 759.2160535571331,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970243,
+        "stroke_id": 0
+      },
+      {
+        "x": -198.7829810478927,
+        "y": 754.2448716734593,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970258,
+        "stroke_id": 0
+      },
+      {
+        "x": -203.2379815766027,
+        "y": 749.2736897897855,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970275,
+        "stroke_id": 0
+      },
+      {
+        "x": -210.72561824061353,
+        "y": 737.9239214289717,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970292,
+        "stroke_id": 0
+      },
+      {
+        "x": -214.47012709863503,
+        "y": 732.2490339350586,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970310,
+        "stroke_id": 0
+      },
+      {
+        "x": -218.4188775301018,
+        "y": 720.2091320849038,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970325,
+        "stroke_id": 0
+      },
+      {
+        "x": -219.80593056923294,
+        "y": 714.5455569007433,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970342,
+        "stroke_id": 0
+      },
+      {
+        "x": -220.4598739451824,
+        "y": 703.4647455205951,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970358,
+        "stroke_id": 0
+      },
+      {
+        "x": -220.90592825749658,
+        "y": 698.2766353287035,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970376,
+        "stroke_id": 0
+      },
+      {
+        "x": -220.3829608420837,
+        "y": 687.436255635392,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970392,
+        "stroke_id": 0
+      },
+      {
+        "x": -218.93935950821353,
+        "y": 681.3153138291647,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970408,
+        "stroke_id": 0
+      },
+      {
+        "x": -217.46408768324324,
+        "y": 668.5943243612637,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970426,
+        "stroke_id": 0
+      },
+      {
+        "x": -214.60854887959093,
+        "y": 662.9511073584508,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970443,
+        "stroke_id": 0
+      },
+      {
+        "x": -211.26171315162597,
+        "y": 653.0675583240003,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970459,
+        "stroke_id": 0
+      },
+      {
+        "x": -208.17340748069958,
+        "y": 648.1325731807302,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970476,
+        "stroke_id": 0
+      },
+      {
+        "x": -201.7654103236049,
+        "y": 638.9708281267208,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970493,
+        "stroke_id": 0
+      },
+      {
+        "x": -197.50246029947397,
+        "y": 634.7485944652849,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970509,
+        "stroke_id": 0
+      },
+      {
+        "x": -189.45428505462652,
+        "y": 627.7160646121952,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970527,
+        "stroke_id": 0
+      },
+      {
+        "x": -184.7271823479796,
+        "y": 624.9102880428328,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970543,
+        "stroke_id": 0
+      },
+      {
+        "x": -176.2193806699196,
+        "y": 620.2374738197792,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970563,
+        "stroke_id": 0
+      },
+      {
+        "x": -171.96547651738354,
+        "y": 617.9003761822363,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970576,
+        "stroke_id": 0
+      },
+      {
+        "x": -166.7728400761884,
+        "y": 616.5110633319596,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970593,
+        "stroke_id": 0
+      },
+      {
+        "x": -153.56507993327816,
+        "y": 614.6892616632548,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970610,
+        "stroke_id": 0
+      },
+      {
+        "x": -145.78586166909633,
+        "y": 614.4904250982265,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970627,
+        "stroke_id": 0
+      },
+      {
+        "x": -129.53503184024606,
+        "y": 617.1606994577488,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970644,
+        "stroke_id": 0
+      },
+      {
+        "x": -121.06342027557761,
+        "y": 620.0298103822995,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970660,
+        "stroke_id": 0
+      },
+      {
+        "x": -105.06798193350676,
+        "y": 626.7067645200598,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970676,
+        "stroke_id": 0
+      },
+      {
+        "x": -98.48150639273138,
+        "y": 629.5668295730155,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970693,
+        "stroke_id": 0
+      },
+      {
+        "x": -87.67279719052004,
+        "y": 636.6898446501023,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970710,
+        "stroke_id": 0
+      },
+      {
+        "x": -83.91609726363237,
+        "y": 639.5363309551476,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970726,
+        "stroke_id": 0
+      },
+      {
+        "x": -77.34319384375527,
+        "y": 645.2247905699589,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970744,
+        "stroke_id": 0
+      },
+      {
+        "x": -74.5374172743928,
+        "y": 649.9518932766058,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970760,
+        "stroke_id": 0
+      },
+      {
+        "x": -67.51845954220153,
+        "y": 660.8284630833089,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970777,
+        "stroke_id": 0
+      },
+      {
+        "x": -64.71720922214257,
+        "y": 666.4988243279183,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970794,
+        "stroke_id": 0
+      },
+      {
+        "x": -61.92953102298196,
+        "y": 674.9975801343835,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970812,
+        "stroke_id": 0
+      },
+      {
+        "x": -60.535691923401714,
+        "y": 679.2469580376161,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970826,
+        "stroke_id": 0
+      },
+      {
+        "x": -58.4585053949296,
+        "y": 688.4494194543205,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970846,
+        "stroke_id": 0
+      },
+      {
+        "x": -58.47886357627715,
+        "y": 692.6920112971039,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970860,
+        "stroke_id": 0
+      },
+      {
+        "x": -57.793256336239665,
+        "y": 697.1741560676106,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970878,
+        "stroke_id": 0
+      },
+      {
+        "x": -58.30717125304551,
+        "y": 706.128018684997,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970894,
+        "stroke_id": 0
+      },
+      {
+        "x": -59.98127964304416,
+        "y": 711.0697898887162,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970911,
+        "stroke_id": 0
+      },
+      {
+        "x": -62.863962688493075,
+        "y": 722.3697960152401,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970927,
+        "stroke_id": 0
+      },
+      {
+        "x": -63.59481254052906,
+        "y": 727.3160934682629,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970945,
+        "stroke_id": 0
+      },
+      {
+        "x": -65.04746637300622,
+        "y": 735.3235523504154,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970961,
+        "stroke_id": 0
+      },
+      {
+        "x": -65.06555811619592,
+        "y": 739.0938243982014,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970978,
+        "stroke_id": 0
+      },
+      {
+        "x": -66.98236463118906,
+        "y": 745.6848261882803,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628970995,
+        "stroke_id": 0
+      },
+      {
+        "x": -68.6429009002893,
+        "y": 747.798202830144,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628971011,
+        "stroke_id": 0
+      },
+      {
+        "x": -70.78116197280394,
+        "y": 751.3235169417896,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628971028,
+        "stroke_id": 0
+      },
+      {
+        "x": -71.72442051076655,
+        "y": 751.3189906924862,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1542628971044,
+        "stroke_id": 0
+      }
+    ]
+    }
+  },
+  "device": {
+    "osBrowserInfo": "5.0 (Linux; Android 7.0; SM-T580 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Safari/537.36",
+    "resolutionHeight": 1280,
+    "resolutionWidth": 800,
+    "windowHeight": 1160,
+    "windowWidth": 800,
+    "pixelRatio": 1.5,
+    "mouse": false,
+    "pen": false,
+    "finger": true,
+    "acceleration": false,
+    "webcam": false
+  }
+}
